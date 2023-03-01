@@ -1,0 +1,5 @@
+REDIS_COMMUNICATION_ERROR = "Error occur while communicating redis database."
+REBBITMQ_CONNECTION_ERROR = "Error occur while connecting rabbitmq consumer."
+REBBITMQ_MSG_SENDING_ERROR = "Error occur in sending messages."
+REBBITMQ_MSG_SEND = "Messages are sent."
+INVALID_TOKEN = "Invalid token."

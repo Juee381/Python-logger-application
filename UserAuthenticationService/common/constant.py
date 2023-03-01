@@ -1,0 +1,6 @@
+USER_CREATED_SUCCESSFULLY = "User created successfully."
+USER_ALREADY_EXISTS = "A user with that username already exists."
+INVALID_USERNAME = "Enter a valid username."
+INVALID_PASSWORD = "Enter a valid password."
+PASSWORD_NOT_MATCH = "Password does not match."
+USER_NOT_EXISTS = "User does not exists with given username."

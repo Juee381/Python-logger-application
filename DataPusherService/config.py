@@ -1,0 +1,7 @@
+REDIS_HOST = 'localhost'
+REDIS_PORT = 6379
+RABBITMQ_HOST = 'localhost'
+RABBITMQ_QUEUE_NAME = 'hello'
+RABBITMQ_ROUTING_KEY = 'hello'
+APP_HOST = 'localhost'
+APP_PORT = 5050
